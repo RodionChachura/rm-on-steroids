@@ -1,0 +1,3 @@
+
+class TrashError(StandardError):
+    pass
