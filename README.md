@@ -1,5 +1,7 @@
-# Rodion's rm
-RRM is a rm for Unix-based systems with additional functionality
+# rm-on-steroids
+
+> 
+RRM is a rm for Unix-based systems with additional functionality.
 ### Features:
  - removing files or directories
  - removing files by regex
@@ -37,3 +39,6 @@ $ rrm <arguments>
 
 :)
 
+## License
+
+MIT © [RodionChachura](https://geekrodion.com)
